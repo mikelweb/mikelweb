@@ -29,7 +29,7 @@
 	<img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
 	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
 	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2671E5.svg?logo=typescript&logoColor=white">
-  <a href="https://github.com/search?q=user%3Amikelweb+language%3Asql&type=code"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+  <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
 	<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
 	<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
 </p>
@@ -53,8 +53,9 @@
 <h3 align="center">📦 Databases</h3>
 
 <p align="center">
-	<img alt="MySQL" src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&logoColor=white&labelColor=blue">
-	<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=FFFFFF">
+	<img alt="MySQL" src="https://shields.io/badge/MySQL-blue?logo=mysql&logoColor=white&labelColor=blue">
+	<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4DB33D?logo=mongodb&logoColor=FFFFFF">
+	<img alt="Redis" src="https://img.shields.io/badge/Redis-FB2A2C?logo=redis&logoColor=FFFFFF">
 	<img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169e1?logo=postgresql&logoColor=white">
 </p>
 
