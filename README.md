@@ -25,9 +25,10 @@
 <h3 align="center">💻 Programming languages</h3>
 
 <p align="center">
+	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
 	<img alt="PHP" src="https://custom-icon-badges.demolab.com/badge/PHP-68217A.svg?logo=php&logoColor=white">
 	<img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
-	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+	<img alt="Python" src="https://img.shields.io/badge/Python-F7DF1E.svg?logo=python&logoColor=black">
 	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2671E5.svg?logo=typescript&logoColor=white">
   <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
 	<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
@@ -40,10 +41,11 @@
 	<img alt="Spring Framework" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 	<img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?logo=Hibernate&logoColor=white">
 	<img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white">
+	<img alt="Django" src="https://custom-icon-badges.demolab.com/badge/Django-0C4B33.svg?logo=django&logoColor=white">
 	<img alt="CakePHP" src="https://img.shields.io/badge/CakePHP-C62634?style=flat-square&logo=CakePHP&logoColor=white">
 	<img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-F05033?style=flat-square&logo=CodeIgniter&logoColor=white">
-	<img alt="Angular" src="https://img.shields.io/badge/Angular-CC2927.svg?logo=angular&logoColor=white">
 	<br>
+	<img alt="Angular" src="https://img.shields.io/badge/Angular-CC2927.svg?logo=angular&logoColor=white">
 	<img alt="jQuery" src="https://img.shields.io/badge/jQuery-0078d7.svg?logo=jquery&logoColor=white">
 	<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
 	<img alt="Sass" src="https://img.shields.io/badge/Sass-AF286D.svg?logo=sass&logoColor=white">
