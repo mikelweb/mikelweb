@@ -66,7 +66,7 @@
 <p align="center">
 	<img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
 	<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-	<img alt="IntelliJIdea" src="https://img.shields.io/badge/IntelliJIdea?logo=Intellijidea&logoColor=white">
+	<img alt="IntelliJIdea" src="https://img.shields.io/badge/intellijidea-EF2D5E.svg?logo=intellijidea&logoColor=white">
 	<img alt="Slack" src="https://img.shields.io/badge/Slack-68217A.svg?logo=slack&logoColor=white">
 	<img alt="Tomcat" src="https://img.shields.io/badge/Tomcat-F8DC75?logo=apachetomcat&logoColor=black">
 	<img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36.svg?logo=apache-maven&logoColor=white">
