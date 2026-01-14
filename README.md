@@ -66,13 +66,14 @@
 <p align="center">
 	<img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
 	<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-	<img alt="IntelliJIdea" src="https://img.shields.io/badge/intellijidea-EF2D5E.svg?logo=intellijidea&logoColor=white">
+	<img alt="IntelliJIdea" src="https://img.shields.io/badge/IntelliJIdea?logo=Intellijidea&logoColor=white">
 	<img alt="Slack" src="https://img.shields.io/badge/Slack-68217A.svg?logo=slack&logoColor=white">
 	<img alt="Tomcat" src="https://img.shields.io/badge/Tomcat-F8DC75?logo=apachetomcat&logoColor=black">
 	<img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36.svg?logo=apache-maven&logoColor=white">
 	<img alt="Codepen" src="https://img.shields.io/badge/Codepen-010101.svg?logo=codepen&logoColor=white">
 	<br>
- 	<img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white">
+ 	<img alt="Docker" src="https://img.shields.io/badge/Docker-2671E5.svg?logo=docker&logoColor=white">
+	<img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white">
 	<img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white">
 	<img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white">
 	<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white">
