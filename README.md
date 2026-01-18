@@ -44,6 +44,7 @@
 	<img alt="Django" src="https://custom-icon-badges.demolab.com/badge/Django-0C4B33.svg?logo=django&logoColor=white">
 	<img alt="CakePHP" src="https://img.shields.io/badge/CakePHP-C62634?style=flat-square&logo=CakePHP&logoColor=white">
 	<img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-F05033?style=flat-square&logo=CodeIgniter&logoColor=white">
+	<img alt="JWT" src="https://img.shields.io/badge/JWT-7434DA.svg?logo=jsonwebtokens&logoColor=white">
 	<br>
 	<img alt="Angular" src="https://img.shields.io/badge/Angular-CC2927.svg?logo=angular&logoColor=white">
 	<img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-417e38.svg?logo=Node.js&logoColor=white">
