@@ -30,7 +30,7 @@
 	<img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
 	<img alt="Python" src="https://img.shields.io/badge/Python-F7DF1E.svg?logo=python&logoColor=black">
 	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2671E5.svg?logo=typescript&logoColor=white">
-  <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+    <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
 	<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
 	<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
 </p>
@@ -46,6 +46,7 @@
 	<img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-F05033?style=flat-square&logo=CodeIgniter&logoColor=white">
 	<br>
 	<img alt="Angular" src="https://img.shields.io/badge/Angular-CC2927.svg?logo=angular&logoColor=white">
+	<img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-417e38.svg?logo=Node.js&logoColor=white">
 	<img alt="jQuery" src="https://img.shields.io/badge/jQuery-0078d7.svg?logo=jquery&logoColor=white">
 	<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
 	<img alt="Sass" src="https://img.shields.io/badge/Sass-AF286D.svg?logo=sass&logoColor=white">
@@ -58,7 +59,7 @@
 	<img alt="MySQL" src="https://shields.io/badge/MySQL-blue?logo=mysql&logoColor=white&labelColor=blue">
 	<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4DB33D?logo=mongodb&logoColor=FFFFFF">
 	<img alt="Redis" src="https://img.shields.io/badge/Redis-FB2A2C?logo=redis&logoColor=FFFFFF">
-	<img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169e1?logo=postgresql&logoColor=white">
+	<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169e1?logo=postgresql&logoColor=white">
 </p>
 
 <h3 align="center">🛠️ Software and tools</h3>
